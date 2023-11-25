@@ -1,4 +1,4 @@
-# toyAssembly-projeto-2 
+# toyAssembly-Projeto-2 
 Programação 1 2023 - IFB 
 Vitor Rafael de Sousa Vilhena
 
